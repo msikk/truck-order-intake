@@ -1,0 +1,10 @@
+From: AP Dept <ap@somecustomer.example>
+To: orders@example-trucking.com
+Subject: Remittance advice - invoice 10442
+Date: Mon, 19 Oct 2026 09:15:00 -0700
+Message-ID: <not_an_order@example.com>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Payment of $3,200.00 for invoice 10442 was sent via ACH today.
